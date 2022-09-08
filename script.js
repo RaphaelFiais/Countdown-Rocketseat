@@ -5,7 +5,7 @@ const sec = document.getElementById('seconds')
 const button = document.getElementById('inscreva')
 const conteudo = document.getElementById('conteudo')
 
-const newEvent = "16 Sept 2022"
+const newEvent = "16 Sept 2023"
 
 const Countdown = () => {
     const newEventDate = new Date(newEvent);
